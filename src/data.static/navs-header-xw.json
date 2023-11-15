@@ -1,0 +1,36 @@
+{
+  "data" : [      
+    { 
+      "name": "Home",
+      "text": "", "icon":"bx bx-home-alt",
+      "link": "home",
+      "user": ["user", "team"],
+      "subs": ["lite"],
+      "actv": true
+    },  
+    { 
+      "name": "Assets",
+      "text": "", "icon":"bx bx-grid",
+      "link": "assets",
+      "user": ["user", "team"],
+      "subs": ["lite"],
+      "actv": true
+    },
+    { 
+      "name": "Network",
+      "text": "", "icon":"bx bx-user-circle",
+      "link": "network",
+      "user": ["team"],
+      "subs": ["lite"],
+      "actv": true
+    },     
+    { 
+      "name": "Transfers",
+      "text": "", "icon":"bx bx-check-circle",
+      "link": "transfers",
+      "user": ["user", "team"],
+      "subs": ["lite"],
+      "actv": true
+    }
+  ]
+}

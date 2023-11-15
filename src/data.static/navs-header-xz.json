@@ -1,0 +1,36 @@
+{
+  "data" : [      
+    { 
+      "name": "Home",
+      "text": "", "icon":"bx bx-home",
+      "link": "/",
+      "user": ["user", "team"],
+      "subs": ["lite"],
+      "actv": true
+    }, 
+    { 
+      "name": "Pricing",
+      "text": "", "icon":"bx bx-check-circle",
+      "link": "/",
+      "user": ["user", "team"],
+      "subs": ["lite"],
+      "actv": true
+    },
+    { 
+      "name": "Demo",
+      "text": "", "icon":"bx bx-check-circle",
+      "link": "/",
+      "user": ["user", "team"],
+      "subs": ["lite"],
+      "actv": true
+    },
+    { 
+      "name": "Contact Us",
+      "text": "", "icon":"bx bx-check-circle",
+      "link": "/",
+      "user": ["user", "team"],
+      "subs": ["lite"],
+      "actv": true
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "data" : [
+    {
+      "name": "Service Account (INR)", 
+      "memo": "Virtual Internal Payments and Transfers", 
+      "code": "fiat-inrx-va", 
+      "icon": "bx bx-wallet-alt", 
+      "link": "accounts/create/virtual",
+      "actv": true,
+      "user": ["user", "team"]
+    },
+    {
+      "name": "Settlement Account (INR)", 
+      "memo": "Bank Account for Settlements and Withdrawals", 
+      "code": "fiat-inrx-bank", 
+      "icon": "bx bx-store-alt",
+      "link": "accounts/link/bank",
+      "actv": true,
+      "user": ["user", "team"]
+    },
+    {
+      "name": "Digital Assets Account", 
+      "memo": "Web3 Account to Store and Manage Digital Assets", 
+      "code": "web3-algo-algorand", 
+      "icon": "bx bx-grid-alt",
+      "link": "accounts/create/rand",
+      "actv": true,
+      "user": ["user", "team"]
+    },
+    {
+      "name": "Binance Account (BNB)", 
+      "memo": "Link or Create Binance Blockchain Account", 
+      "code": "web3-bnb-binance", 
+      "icon": "bx bx-globe",
+      "link": "accounts/create/binance",
+      "actv": false,
+      "user": ["user", "team"]
+    },
+    {
+      "name": "Celo Account (CELO)", 
+      "memo": "Link or Create Celo Blockchain Account", 
+      "code": "web3-celo-celo", 
+      "icon": "bx bx-globe",
+      "link": "accounts/create/celo",
+      "actv": false,
+      "user": ["user", "team"]
+    },
+    {
+      "name": "Ethereum Account (ETH)", 
+      "memo": "Link or Create Ethereum Blockchain Account", 
+      "code": "web3-eth-ethereum", 
+      "icon": "bx bx-globe",
+      "link": "accounts/create/ethereum",
+      "actv": false,
+      "user": ["user", "team"]
+    },
+    {
+      "name": "Polygon Account (MATIC)", 
+      "memo": "Link or Create Polygon Blockchain Account", 
+      "code": "web3-matic-polygon", 
+      "icon": "bx bx-globe",
+      "link": "accounts/create/polygon",
+      "actv": false,
+      "user": ["user", "team"]
+    }
+  ]
+}

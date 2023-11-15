@@ -1,0 +1,49 @@
+{
+  "data" : [
+    {
+      "name": "Self Mint", 
+      "text": "Enable QR scan for token mint", 
+      "code": "self", 
+      "icon": "bx bx-qr", 
+      "stat": false, 
+      "actv": false,
+      "form": ["tickets", "attendance", "members"]
+    },
+    {
+      "name": "Tradable", 
+      "text": "Allow Users to transfer token", 
+      "code": "next", 
+      "icon": "bx bx-rotate-right", 
+      "stat": false, 
+      "actv": false,
+      "form": ["tickets", "attendance", "members"]
+    },
+    {
+      "name": "Dynamic", 
+      "text": "Token Data can be updated", 
+      "code": "mend", 
+      "icon": "bx bx-bolt-circle", 
+      "stat": false, 
+      "actv": false,
+      "form": ["certificate", "attendance", "tickets", "members", "work"]
+    },
+    {
+      "name": "Burnable", 
+      "text": "Token can be destroyed", 
+      "code": "burn",
+      "icon": "bx bx-loader-circle", 
+      "stat": false, 
+      "actv": false,
+      "form": ["certificate", "attendance", "tickets", "awards", "members", "work"]
+    },
+    {
+      "name": "Personalize", 
+      "text": "Add User Name to Token", 
+      "code": "name",
+      "icon": "bx bx-user-circle", 
+      "stat": false, 
+      "actv": true,
+      "form": ["certificate", "attendance", "tickets", "awards", "members", "work"]
+    }
+  ]
+}

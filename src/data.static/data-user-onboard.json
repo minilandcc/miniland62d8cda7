@@ -1,0 +1,54 @@
+{
+  "data" : [
+    { 
+      "name": "Pan Card", 
+      "memo": "Upload Your Individual Pan Card for KYC Verification",
+      "link": "/user/onboard/id/taxx", 
+      "icon": "bi bi-1-circle-fill", 
+      "code": "docs-taxx",
+      "rank": 1, 
+      "status": false, 
+      "active": true
+    },
+    { 
+      "name": "Aadhaar Card", 
+      "memo": "Upload Your Aadhaar Card for KYC and Address Proof",
+      "link": "/user/onboard/id/adhr", 
+      "icon": "bi bi-2-circle-fill", 
+      "code": "docs-aadhaar",
+      "rank": 2, 
+      "status": false, 
+      "active": true
+    },
+    { 
+      "name": "Bank Account (Settlement)", 
+      "memo": "Link Your Bank Account for Transfers and Withdrawals from the app",
+      "link": "/user/onboard/ac/settle", 
+      "icon": "bi bi-3-circle-fill", 
+      "code": "account-settle",
+      "rank": 3, 
+      "status": false, 
+      "active": true
+    },
+    { 
+      "name": "Miniland Account (Transit)", 
+      "memo": "Create and Link Transit Account for internal Fund Transfers ",
+      "link": "/user/onboard/ac/transit",
+      "icon": "bi bi-4-circle-fill", 
+      "code": "account-transit",
+      "rank": 4, 
+      "status": false, 
+      "active": true
+    },
+    { 
+      "name": "Digital Assets Account", 
+      "memo": "Create & Link Blockchain Account to Manage Digital Assets",
+      "link": "/user/onboard/ac/minter", 
+      "icon": "bi bi-5-circle-fill", 
+      "code": "account-minter",
+      "rank": 5, 
+      "status": false, 
+      "active": true    
+    }
+  ]
+}

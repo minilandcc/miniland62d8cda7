@@ -1,0 +1,74 @@
+{
+  "data" : [
+    { 
+      "name": "Add Funds",
+      "text": "Add Funds", 
+      "icon": "bx bx-plus-circle",
+      "avtr": "",
+      "link": "account/credit",
+      "user": ["user", "team"],
+      "live": true,
+      "actv": true
+    },
+    { 
+      "name": "Add Account",
+      "text": "Format", 
+      "icon": "bx bx-credit-card",
+      "avtr": "",
+      "link": "",
+      "user": ["user", "team"],
+      "live": false,
+      "actv": true
+    },
+    { 
+      "name": "Add Docs",
+      "text": "Add Docs", 
+      "icon": "bx bx-file",
+      "avtr": "",
+      "link": "",
+      "user": ["user", "team"],
+      "live": false,
+      "actv": true
+    },        
+    { 
+      "name": "Invite",
+      "text": "Format", 
+      "icon": "bx bx-user-circle",
+      "avtr": "",
+      "link": "",
+      "user": ["user", "team"],
+      "live": false,
+      "actv": true
+    },     
+    { 
+      "name": "Transfer",
+      "text": "Add Funds", 
+      "icon": "bx bx-up-arrow-circle",
+      "avtr": "",
+      "link": "transfers/debit",
+      "user": ["user", "team"],
+      "live": false,
+      "actv": true
+    },    
+    { 
+      "name": "Collect",
+      "text": "Format", 
+      "icon": "bx bx-down-arrow-circle",
+      "avtr": "",
+      "link": "",
+      "user": ["user", "team"],
+      "live": false,
+      "actv": false
+    },
+    { 
+      "name": "Withdraw",
+      "text": "Add Funds", 
+      "icon": "bx bx-minus-circle",
+      "avtr": "",
+      "link": "account/debit",
+      "user": ["user", "team"],
+      "live": true,
+      "actv": true
+    }
+  ]
+}

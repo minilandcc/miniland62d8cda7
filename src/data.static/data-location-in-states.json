@@ -1,0 +1,220 @@
+{
+  "data" : [
+    { 
+      "name": "Andhra Pradesh",
+      "form": "state",
+      "actv": true,
+      "item": "77cd3bf1-7ed1-4905-b05b-d80c880c3806"
+    },
+    { 
+      "name": "Andaman and Nicobar",
+      "form": "union",
+      "actv": true,
+      "item": "ef073605-7b97-42a9-ae5c-36bb48cdf640"
+    },
+    { 
+      "name": "Arunachal Pradesh",
+      "form": "state",
+      "actv": true,
+      "item": "9150de95-1116-47b1-929c-ed2e760f4817"
+    } ,
+    { 
+      "name": "Assam",
+      "form": "state",
+      "actv": true,
+      "item": "34cb76e7-2b92-48a3-96f6-ab01087304f4"
+    },   
+    { 
+      "name": "Bihar",
+      "form": "state",
+      "actv": true,
+      "item": "59bb6876-35e3-424a-9f76-89e2af951d75"
+    },
+    { 
+      "name": "Chandigarh",
+      "form": "union",
+      "actv": true,
+      "item": "be76e0a4-dae7-4cda-9085-1acbd07eab89"
+    },
+    { 
+      "name": "Chhattisgarh",
+      "form": "state",
+      "actv": true,
+      "item": "b4df54d3-1a03-491b-b45b-9919859423af"
+    },
+    { 
+      "name": "Dadra Nagar Haveli, Daman Diu",
+      "form": "union",
+      "actv": true,
+      "item": "2be6ef2f-f876-43bf-9d45-75509ecdbf6e"
+    },          
+    { 
+      "name": "Goa",
+      "form": "state",
+      "actv": true,
+      "item": "105606ea-b00c-4852-a480-edfe3c2145ad"
+    },  
+    { 
+      "name": "Gujarat",
+      "form": "state",
+      "actv": true,
+      "item": "9a70113f-3688-4372-a59f-f80cf977094e"
+    },                
+    { 
+      "name": "Haryana",
+      "form": "state",
+      "actv": true,
+      "item": "b802a1f1-8774-48ab-ad40-b447fc4804fe"
+    },                
+    { 
+      "name": "Himachal Pradesh",
+      "form": "state",
+      "actv": true,
+      "item": "a59ab624-95dd-43ba-8914-7651e8bb73ae"
+    },
+    { 
+      "name": "Delhi",
+      "form": "union",
+      "actv": true,
+      "item": "6cded3fb-5516-4764-a8db-b57d028ec4b5"
+    },    
+    { 
+      "name": "Jammu and Kashmir",
+      "form": "union",
+      "actv": true,
+      "item": "ec008bda-3d28-4956-960a-7e983380147a"
+    },    
+    { 
+      "name": "Jharkhand",
+      "form": "state",
+      "actv": true,
+      "item": "90d2b2e9-2897-4bbd-b5ed-1da42ba27dde"
+    },                
+    { 
+      "name": "Karnataka",
+      "form": "state",
+      "actv": true,
+      "item": "d4cc2279-c09f-4c2f-9bc2-028f1cb91f0c"
+    },                
+    { 
+      "name": "Kerela",
+      "form": "state",
+      "actv": true,
+      "item": "686f1c6f-92e3-4648-8e78-158b94158172"
+    },       
+    { 
+      "name": "Ladakh",
+      "form": "union",
+      "actv": true,
+      "item": "bef9eb72-4939-45ff-af51-95db1553c4a5"
+    },
+    { 
+      "name": "Lakshadweep",
+      "form": "union",
+      "actv": true,
+      "item": "b5277554-1fb0-44cf-bfa5-b3b6073a7017"
+    },    
+    { 
+      "name": "Madhya Pradesh",
+      "form": "state",
+      "actv": true,
+      "item": "511d22cd-8199-4e1a-a757-0194c312f010"
+    },                
+    { 
+      "name": "Maharashtra",
+      "form": "state",
+      "actv": true,
+      "item": "b62d382a-cdd8-431a-8a96-389cb52b35d9"
+    },                
+    { 
+      "name": "Manipur",
+      "form": "state",
+      "actv": true,
+      "item": "a0d92319-89b1-4c5b-b7a7-829ba789cc0f"
+    },                
+    { 
+      "name": "Meghalaya",
+      "form": "state",
+      "actv": true,
+      "item": "a114e2f7-5ef7-470d-bcbd-a7ce2af25072"
+    },                
+    { 
+      "name": "Mizoram",
+      "form": "state",
+      "actv": true,
+      "item": "55261892-1a61-498c-8161-87738f3f5aec"
+    },                
+    { 
+      "name": "Nagaland",
+      "form": "state",
+      "actv": true,
+      "item": "db35b0b5-e5b9-41fb-a21d-a70c710c421c"
+    },                
+    { 
+      "name": "Odisha",
+      "form": "state",
+      "actv": true,
+      "item": "ba7005fd-60ad-4c32-a0b1-a1c1d4066ed5"
+    },
+    { 
+      "name": "Puducherry",
+      "form": "union",
+      "actv": true,
+      "item": "5b25db8e-a8c5-400a-8619-15c017f0a56a"
+    },    
+    { 
+      "name": "Punjab",
+      "form": "state",
+      "actv": true,
+      "item": "594549e1-685c-46cf-8045-6be02a8e07bd"
+    },                
+    { 
+      "name": "Rajashthan",
+      "form": "state",
+      "actv": true,
+      "item": "7d78f449-628a-4625-ab3a-1850e17493ef"
+    },                
+    { 
+      "name": "Sikkim",
+      "form": "state",
+      "actv": true,
+      "item": "90444403-24a7-405c-9522-68aa8fb43ac2"
+    },                
+    { 
+      "name": "Tamil Nadu",
+      "form": "state",
+      "actv": true,
+      "item": "68ce6faf-998d-49c3-a06d-57b58b892f8d"
+    },                
+    { 
+      "name": "Telangana",
+      "form": "state",
+      "actv": true,
+      "item": "0dec275d-49ee-4821-82c5-e0351ad3443f"
+    },                
+    { 
+      "name": "Tripura",
+      "form": "state",
+      "actv": true,
+      "item": "3806e4c0-cd22-41f2-8e21-1503ed8d3bfb"
+    },                
+    { 
+      "name": "Uttarakhand",
+      "form": "state",
+      "actv": true,
+      "item": "55e2954d-ed1f-4c5a-ad50-a5a2bd7c4b0c"
+    },                
+    { 
+      "name": "Uttar Pradesh",
+      "form": "state",
+      "actv": true,
+      "item": "c0b8a8a5-091e-4124-93e4-76634cd3985c"
+    },                
+    { 
+      "name": "West Bengal",
+      "form": "state",
+      "actv": true,
+      "item": "aa2cfabe-1256-4d98-814d-7947065db38b"
+    }
+  ]
+}

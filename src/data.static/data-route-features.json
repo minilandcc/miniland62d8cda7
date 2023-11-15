@@ -1,0 +1,32 @@
+{
+    "data": [
+      {
+        "name": "Create Store",
+        "memo": "Create Your Account and Personalize Your Store",
+        "media": "https://img.freepik.com/premium-photo/online-shopping-concept-3d-smartphone-with-basket-shopping-bag-digital-marketing-promotion-online-payment-3d-render-illustration_265427-808.jpg?w=600",
+        "item": "6a1a5fde-28b1-47a4-badb-3bb31a56578f",
+        "actv": true
+      },
+      {
+        "name": "Set Currency",
+        "memo": "Setup Your Inbound Payment Currency Options",
+        "media": "https://img.freepik.com/premium-photo/online-currency-exchange-banking-concept-dollar-euro-pound-yen-currency-symbols-3d-render-illustration_265427-628.jpg?w=600",
+        "item": "6a1a5fde-28b1-47a4-badb-3bb31a56578f",
+        "actv": true
+      },
+      {
+        "name": "Send Invoices",
+        "memo": "Personalize and Send Payment Requests for Invoices, NFTs...",
+        "media": "https://img.freepik.com/premium-photo/online-money-transfer-payment-mobile-banking-transaction-concept-3d-render-illustration_265427-630.jpg?w=600",
+        "item": "6a1a5fde-28b1-47a4-badb-3bb31a56578f",
+        "actv": true
+      },
+      {
+        "name": "Get Paid",
+        "memo": "Get Paid Instantly in Fiat & Web3 Money with Real-Time Swaps",
+        "media": "https://img.freepik.com/premium-photo/mobile-banking-transaction-concept-online-money-transfer-payment-smartphone-coins-wallet-credit-card-3d-render_265427-592.jpg?w=600",
+        "item": "6a1a5fde-28b1-47a4-badb-3bb31a56578f",
+        "actv": true
+      }
+    ]
+  }

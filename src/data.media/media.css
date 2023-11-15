@@ -1,0 +1,434 @@
+/* --- Carousels --- */
+  
+/* Featured - Top of Page >>> Adjust this to 24% for large displace, 
+media query for smaller @56.25%*/
+.media-banner {
+	position: relative;
+	width: 100%;
+	padding-bottom: 24%;
+	overflow: hidden;
+}
+
+.media-banner video {
+	position: absolute;
+	object-fit: cover;
+	width: 100%;
+	height: 100%;
+}
+
+.media-banner img {
+	position: absolute;
+	object-fit: cover;
+	width: 100%;
+	height: 100%;
+}
+
+.media-banner .btn {
+	position: absolute;
+	top: 1.5em;
+	left: 1.5em;
+	transform: translate(0%, 0%);
+	-ms-transform: translate(-10%, -10%);
+	cursor:none;
+	pointer-events: none;
+}
+
+.media-featured {
+	position: relative;
+	width: 100%;
+	padding-bottom: 56.25%;
+	overflow: hidden;
+}
+  
+.media-featured img {
+	position: absolute;
+	object-fit: cover;
+	width: 100%;
+	height: 100%;
+}
+  
+
+.media-featured .btn {
+	position: absolute;
+	top: 1.5em;
+	left: 1.5em;
+	transform: translate(0%, 0%);
+	-ms-transform: translate(-10%, -10%);
+	color: white;
+	font-size: 0.6em;
+	text-transform: uppercase;
+	cursor:none;
+	pointer-events: none;
+}
+
+
+/* user */
+.media-head-md {
+	position: relative;
+	width: 100%;
+	padding-bottom: 24%;
+	overflow: hidden;
+}
+
+.media-head-md .banner {
+	position: absolute;
+	object-fit: cover;
+	width: 100%;
+	height: 100%;
+  }
+
+.media-head-md .avatar {
+	position: absolute;
+	top: 24%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	-ms-transform: translate(-50%, -50%);
+}  
+  
+  .media-head-md .btn {
+	position: absolute;
+	bottom: 9%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	-ms-transform: translate(-50%, -50%);
+	color: white;
+	cursor: pointer;
+}
+
+.media-head-md .name {
+	position: absolute;
+	bottom: 37%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	-ms-transform: translate(-50%, -50%);
+	color: white;
+	cursor: default;
+}
+
+.media-head-md .account {
+	position: absolute;
+	bottom: 33%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	-ms-transform: translate(-50%, -50%);
+	color: white;
+	cursor: default;
+}
+
+
+.media-head-sm {
+	position: relative;
+	width: 100%;
+	padding-bottom: 56.25%;
+	overflow: hidden;
+}
+
+.media-head-sm .banner {
+	position: absolute;
+	object-fit: cover;
+	width: 100%;
+	height: 100%;
+  }
+
+  .media-head-sm .avatar {
+	position: absolute;
+	top: 24%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	-ms-transform: translate(-50%, -50%);
+}  
+  
+
+.media-head-sm .btn {
+	position: absolute;
+	bottom: 3%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	-ms-transform: translate(-50%, -50%);
+	color: white;
+	cursor: pointer;
+}
+
+.media-head-sm .name {
+	position: absolute;
+	bottom: 45%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	-ms-transform: translate(-50%, -50%);
+	color: white;
+	cursor: default;
+}
+
+.media-head-sm .account {
+	position: absolute;
+	bottom: 33%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	-ms-transform: translate(-50%, -50%);
+	color: white;
+	cursor: default;
+}
+
+
+/* Landscape */
+.media-standard {
+	position: relative;
+	width: 100%;
+	padding-bottom: 56.25%;
+	overflow: hidden;
+}
+  
+.media-standard img {
+	position: absolute;
+	object-fit: cover;
+	width: 100%;
+	height: 100%;
+}
+  
+.media-standard .btn {
+	position: absolute;
+	top: 1.5em;
+	left: 1.5em;
+	transform: translate(0%, 0%);
+	-ms-transform: translate(-10%, -10%);
+	color: white;
+	text-transform: uppercase;
+	cursor:none;
+	pointer-events: none;
+}
+
+
+/* Panorama */
+.media-wide-md {
+	position: relative;
+	width: 100%;
+	padding-bottom: 33%;
+	overflow: hidden;
+}
+
+.media-wide-md img {
+	position: absolute;
+	object-fit: cover;
+	width: 100%;
+	height: 100%;
+}
+
+.media-wide-sm {
+	position: relative;
+	width: 100%;
+	padding-bottom: 61.8%;
+	overflow: hidden;
+}
+
+.media-wide-sm img {
+	position: absolute;
+	object-fit: cover;
+	width: 100%;
+	height: 100%;
+  }
+
+  
+.media-pano .btn {
+	position: absolute;
+	top: 1.5em;
+	left: 1.5em;
+	transform: translate(0%, 0%);
+	-ms-transform: translate(-10%, -10%);
+	color: white;
+	font-size: 0.6em;
+	text-transform: uppercase;
+	cursor:none;
+	pointer-events: none;
+}
+
+
+/* Portrait */
+.media-portrait {
+	position: relative;
+	width: 100%;
+	padding-bottom: 126%;
+	overflow: hidden;
+  }
+  
+.media-portrait img {
+	position: absolute;
+	object-fit: cover;
+	width: 100%;
+	height: 100%;
+  }
+  
+.media-portrait .btn {
+	position: absolute;
+	top: 1.5em;
+	left: 1.5em;
+	transform: translate(0%, 0%);
+	-ms-transform: translate(-10%, -10%);
+	color: white;
+	font-size: 0.6em;
+	text-transform: uppercase;
+	cursor:none;
+	pointer-events: none;
+}
+
+/* Square */
+.media-cube {
+	position: relative;
+	width: 100%;
+	padding-bottom: 100%;
+	overflow: hidden;
+  }
+  
+.media-cube img {
+	position: absolute;
+	object-fit: cover;
+	width: 100%;
+	height: 100%;
+  }
+  
+.media-cube .btn {
+	position: absolute;
+	top: 0.6rem;
+	left: 0.6rem;
+	transform: translate(0%, 0%);
+	-ms-transform: translate(-10%, -10%);
+	color: white;
+	text-transform: uppercase;
+	cursor:none;
+	pointer-events: none;
+  }
+
+/* Square */
+.media-master {
+	position: relative;
+	width: 100%;
+	padding-bottom: 61.80%;
+	overflow: hidden;
+}
+  
+.media-master img {
+	position: absolute;
+	object-fit: cover;
+	width: 100%;
+	height: 100%;
+}
+
+
+/* Landscape - multi-button */
+.media-group {
+	position: relative;
+	width: 100%;
+	padding-bottom: 56.25%;
+	overflow: hidden;
+  }
+  
+.layout-group .img-main {
+	position: absolute;
+	object-fit: cover;
+	width: 100%;
+	height: 100%;
+  }
+  
+.media-group .btn-top-left {
+	position: absolute;
+	top: 1.5em;
+	left: 1.5em;
+	transform: translate(0%, 0%);
+	-ms-transform: translate(-10%, -10%);
+	color: white;
+	text-transform: uppercase;
+	cursor:none;
+	pointer-events: none;
+  }
+
+.media-group .btn-top-right {
+	position: absolute;
+	top: 1em;
+	right: 1em;
+	transform: translate(0%, 0%);
+	-ms-transform: translate(-10%, -10%);
+  }
+
+.media-group .caption {
+	position: absolute;
+	bottom: 2.5em;
+	left: 1em;
+	transform: translate(0%, 0%);
+	-ms-transform: translate(-10%, -10%);
+  }
+
+.media-gradient{
+  background: rgb(2,0,34);
+  background: -moz-linear-gradient(0deg, rgba(2,0,34,1) 6%, rgba(9,9,105,0.6208858543417367) 60%, rgba(255,255,255,0) 100%);
+  background: -webkit-linear-gradient(0deg, rgba(2,0,34,1) 6%, rgba(9,9,105,0.6208858543417367) 60%, rgba(255,255,255,0) 100%);
+  background: linear-gradient(0deg, rgba(2,0,34,1) 6%, rgba(9,9,105,0.6208858543417367) 60%, rgba(255,255,255,0) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#020022",endColorstr="#ffffff",GradientType=1);
+}
+
+.media-gradient-left{
+	background: rgb(2,0,36);
+	background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 42%, rgba(0,212,255,1) 100%);
+}
+
+.media-cover {
+  position:relative;
+  display:inline-block;	
+	width: 100%;
+	padding-bottom: 24%;
+}
+
+.media-cover:after {
+  content:'';
+  position:absolute;
+  left:0; top:0;
+  width:100%; height:100%;
+  display:inline-block;
+  background: -moz-linear-gradient(top, rgba(0,47,75,0.5) 0%, rgba(220, 66, 37, 0.5) 100%); /* FF3.6+ */
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(220, 66, 37, 0.5)), color-stop(100%,rgba(0,47,75,0.5))); /* Chrome,Safari4+ */
+  background: -webkit-linear-gradient(top, rgba(0,47,75,0.5) 0%,rgba(220, 66, 37, 0.5) 100%); /* Chrome10+,Safari5.1+ */
+  background: -o-linear-gradient(top, rgba(0,47,75,0.5) 0%,rgba(220, 66, 37, 0.5) 100%); /* Opera 11.10+ */
+  background: -ms-linear-gradient(top, rgba(0,47,75,0.5) 0%,rgba(220, 66, 37, 0.5) 100%); /* IE10+ */
+  background: linear-gradient(to bottom, rgba(0,47,75,0.5) 0%,rgba(220, 66, 37, 0.5) 100%); /* W3C */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#002f4b', endColorstr='#00000000',GradientType=0 ); /* IE6-9 */
+}
+
+.media-cover img {
+	position: absolute;
+	object-fit: cover;
+	width: 100%;
+	height: 100%;
+}
+.media-cover content {
+	position: absolute;
+	top: 0%;
+	left: 5.1%;
+	transform: translate(0%, 0%);
+	-ms-transform: translate(0%, 0%);
+	z-index: 2;
+}
+
+/* Tablet */
+@media only screen and (max-width: 770px) {
+
+.media-cover content {
+	position: absolute;
+	top: 0%;
+	left: 0%;
+	transform: translate(0%, 0%);
+	-ms-transform: translate(0%, 0%);
+	z-index: 2;
+	}
+}
+
+/* Mobile */
+@media only screen and (max-width: 420px) {
+
+.media-cover content {
+	position: absolute;
+	top: 0%;
+	left: 0%;
+	transform: translate(0%, 0%);
+	-ms-transform: translate(0%, 0%);
+	z-index: 2;
+  }
+
+}

@@ -1,0 +1,25 @@
+{
+    "data": [
+      {
+        "name": "Create Account",
+        "memo": "Create Account and Set Preferences",
+        "media": "https://img.freepik.com/free-photo/portrait-smiling-young-girl-using-mobile-phone_171337-1627.jpg?w=600",
+        "item": "6a1a5fde-28b1-47a4-badb-3bb31a56578f",
+        "actv": true
+      },
+      {
+        "name": "Send Payment Requests",
+        "memo": "Personalize and Send Collect Requests",
+        "media": "https://img.freepik.com/free-photo/portrait-excited-young-girl-holding-mobile-phone_171337-1630.jpg?w=600",
+        "item": "6a1a5fde-28b1-47a4-badb-3bb31a56578f",
+        "actv": true
+      },
+      {
+        "name": "Get Paid",
+        "memo": "Get Paid Directly into Your Account or Wallet",
+        "media": "https://img.freepik.com/free-photo/portrait-happy-young-girl-celebrating-success_171337-1620.jpg?w=600",
+        "item": "6a1a5fde-28b1-47a4-badb-3bb31a56578f",
+        "actv": true
+      }
+    ]
+  }

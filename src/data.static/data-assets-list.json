@@ -1,0 +1,43 @@
+{
+  "data" : [
+    { 
+      "meta": {
+        "name": "Hillview",
+        "memo": "Discover the epitome of luxury living at Hillview. Nestled amidst breathtaking natural beauty, our exclusive community offers unparalleled privacy and security. Indulge in world-class amenities, including a private clubhouse, scenic jogging trails, and meticulously landscaped gardens. Experience a lifestyle of elegance and serenity at Hillview Gated Society. Your dream home awaits."
+      },
+      "link": "",
+      "icon": "",
+      "form": "land",
+      "count": {"done": 4500, "total":  6000},
+      "media": {"link": "https://img.freepik.com/free-photo/park-grass_1127-2287.jpg?w=600"},
+      "actv": true,
+      "item": "3fbb0566-4df8-477c-92a7-0a0c5772c44d"
+    },
+    { 
+      "meta": {      
+        "name": "Pride Villas",
+        "memo": "Experience luxurious living at Villas Residences. Our exquisite villas offer the perfect blend of elegance and comfort. Enjoy spacious layouts, high-end finishes, and breathtaking views. Indulge in resort-style amenities, including pools, spas, and fitness centers. Discover the epitome of upscale living at Villas Residences. Your dream home awaits." 
+      },
+      "link": "",
+      "icon": "",
+      "form": "residential",
+      "count": {"done": 6000, "total":  10000},
+      "media": {"link": "https://img.freepik.com/free-photo/3d-electric-car-building_23-2148972401.jpg?w=600"},
+      "actv": true,
+      "item": "2d8d1e69-af0b-4e79-90c5-c93668670ff8"
+    },
+    { 
+      "meta": {       
+        "name": "Vivanta",
+        "memo": "Experience luxury and relaxation with our exquisite poolside houses. Indulge in the ultimate blend of comfort and style as you enjoy breathtaking views and refreshing dips in your private pool. With spacious interiors, modern amenities, and outdoor entertainment areas, our poolside houses redefine the art of coastal living. Dive into paradise today!"
+      },
+      "link": "",
+      "icon": "",
+      "form": "commercial",
+      "count": {"done": 7000, "total":  9600},
+      "media": {"link": "https://img.freepik.com/free-photo/luxury-pool-villa-spectacular-contemporary-design-digital-art-real-estate-home-house-property-ge_1258-150749.jpg?w=600"},
+      "actv": true,
+      "item": "a5103793-1623-4618-84b3-bb4a00baacd4"
+    }
+  ]
+}
